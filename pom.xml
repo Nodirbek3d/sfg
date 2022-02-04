@@ -9,7 +9,7 @@
 
     <groupId>com.castusoft</groupId>
     <artifactId>sfgdi</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
 
     <name>sfg-pet-clinic</name>
     <description>SFG Pet Clinic</description>
@@ -50,6 +50,6 @@
     </build>
 <scm>
     <developerConnection>scm:git:git@github.com:Nodirbek3d/sfg.git</developerConnection>
-  <tag>sfgdi-0.0.3</tag>
+  <tag>HEAD</tag>
   </scm>
 </project>
